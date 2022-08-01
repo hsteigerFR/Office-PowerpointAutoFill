@@ -7,13 +7,16 @@ The goal of this project is to automate the creation of Powerpoint presentations
 - Create an Excel Sheet where each column corresponds to a template element, and whose rows correspond to the different slides
 - Iteratively copy the slide template and replace its content with the expected informations of the given row
 
-This process is summed up in the following illustration. This graph also explains the example used in this repositery :  
+This process is summed up in the following illustration. This graph also explains the example used in this repository :  
 
 ![PowerpointAutoFill](https://user-images.githubusercontent.com/106969232/182206869-92a607f2-dc9c-47ff-809d-a961c9947abc.JPG)
 
 HOW TO USE :
-- Open the Powerpoint file and enable Content and Macros
-- Go to the "View" menu on the upper ribbon
-- Select "Macros" on the left and choose the "Automate" macro 
-- The VBA code can be checked with the "Edit" button, it is also saved as "macro.bas" in this repo
-- Press Run : the slide creation process should start
+- Open the Powerpoint file and enable Content and Macros.
+- Go to the "View" menu on the upper ribbon.
+- Select "Macros" on the left and choose the "Automate" macro .
+- The VBA code can be checked with the "Edit" button, it is also saved as "macro.bas" in this repo.
+- Press Run : the slide creation process should start.
+
+The solution was tested on : Microsoft Windows 10 Home, Version	10.0.19043 Build 19043 (x64)
+
