@@ -12,7 +12,7 @@ This process is summed up in the following illustration. This graph also explain
 ![PowerpointAutoFill](https://user-images.githubusercontent.com/106969232/182206869-92a607f2-dc9c-47ff-809d-a961c9947abc.JPG)
 
 HOW TO USE :
-- Open the Powerpoint file and enable Macros
+- Open the Powerpoint file and enable Content and Macros
 - Go to the "View" menu on the upper ribbon
 - Select "Macros" on the left and choose the "Automate" macro 
 - The VBA code can be checked with the "Edit" button, it is also saved as "macro.bas" in this repo
